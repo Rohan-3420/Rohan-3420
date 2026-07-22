@@ -1,12 +1,11 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6D28D9&height=120&section=header" />
+</p>
 <h1 align="center">Hi there, I'm Rohan Shahzad 👋</h1>
 <h3 align="center">Full Stack Developer | AI Automation & Chatbot Specialist</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Automation+%26+Chatbot+Builder;Vibe+Coding+Enthusiast;3%2B+Years+of+Experience;98%25+Happy+Clients+%E2%80%A2+Always+On+Time" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6D28D9&height=120&section=header" />
 </p>
 
 ---
@@ -67,10 +66,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rohan-3420&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-3420&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohan-3420&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
