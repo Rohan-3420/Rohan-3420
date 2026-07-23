@@ -121,14 +121,16 @@ const rohan = {
 
 ---
 
+---
+
 ## 🎯 Currently
 
-- 🚀 Scaling **[Stackserp](https://stackserp.com)** — AI SEO content at scale
-- 🧾 Shipping **[InvoiceCave](https://invoicecave.com)** — Stripe-Connect invoicing for service businesses
-- 🎓 Productising **[SkillMentor.pk](https://skillmentor.pk)** — Pakistan's practical tech school
-- 🤖 Building **AI voice agents** (Vapi + Twilio) for sales & support
-- 🏗️ Hiring & training the **Innovation With Pixels** team
-- 💬 Open to **freelance · agency partnerships · long-term contracts**
+- 🤖 Building **AI agents, chatbots & automation pipelines** for clients
+- 🌍 Shipping **SaaS, plugins & internal tooling** for clients across Pakistan, the US, the UK, and the Gulf
+- 🧠 Exploring advanced **AI agent workflows** and **vibe coding** techniques
+- ⚡ Delivering projects across **web development, automation, and AI integration**
+- ✅ Maintaining a **98% happy client rate** — quality and communication first
+- 💬 Open to **freelance projects · collaborations · full-time opportunities**
 
 ---
 
