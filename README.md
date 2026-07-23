@@ -11,7 +11,7 @@
 <div align="center">
 
 <a href="https://github.com/HammadShahzad">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=I+ship+software+that+replaces+manual+work.;TypeScript+%C2%B7+Next.js+16+%C2%B7+React+19+%C2%B7+Node.js+%C2%B7+PHP;AI+SEO+%C2%B7+invoicing+SaaS+%C2%B7+hiring+%C2%B7+CRMs+%C2%B7+WordPress+plugins;Founder+%40+Innovation+With+Pixels+%C2%B7+Lahore%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Shipping+is+the+only+metric+that+matters." alt="Animated tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=I+ship+software+that+replaces+manual+work.;TypeScript+%C2%B7+Next.js+16+%C2%B7+React+19+%C2%B7+Node.js+%C2%B7+PHP;AI+SEO+%C2%B7+invoicing+SaaS+%C2%B7+hiring+%C2%B7+CRMs+%C2%B7+WordPress+plugins;Shipping+is+the+only+metric+that+matters." alt="Animated tagline" />
 </a>
 
 [![Website](https://img.shields.io/badge/Website-ROHANSHAHZAD.COM-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://rohan-portfolio-woad-eight.vercel.app/)
@@ -20,7 +20,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/Rohan-3420?style=flat-square&label=Followers&color=58A6FF)
 ![Profile views](https://komarev.com/ghpvc/?username=Rohan-3420&color=58A6FF&style=flat-square&label=Profile+Views)
 ![Open to work](https://img.shields.io/badge/Open_to_work-Yes-3FB950?style=flat-square)
-![Based in](https://img.shields.io/badge/Based_in_Pakistan-1F6FEB?style=flat-square)
+![Based in](https://img.shields.io/badge/Based_in-_Pakistan-1F6FEB?style=flat-square)
 
 </div>
 
@@ -28,18 +28,19 @@
 
 ## ⚡ About
 
-I'm a **full-stack developer** and the **founder of [Innovation With Pixels](https://innovationwithpixels.com)** — a software studio out of Lahore that ships AI agents, SaaS, plugins, and internal tooling for clients across Pakistan, the US, the UK, and the Gulf.
+I'm **Rohan Shahzad**, a **full-stack developer** out of Lahore who ships AI agents, SaaS, plugins, and internal tooling for clients across Pakistan, the US, the UK, and the Gulf.
 
-The work I'm proud of replaces manual processes with reliable systems: SEO content that researches itself and ships, invoicing that handles Stripe Connect across an entire customer base, hiring tools that triage 200 résumés into a shortlist by lunch. **No "look what AI can do" — just shipped systems that make money or save time.**
+**3+ years of experience** building modern web applications, with **many websites shipped** and a **98% happy client rate** — quality and communication first, deadlines are a priority, not an afterthought. Specialized in **AI automation, chatbots & vibe coding**, with several projects delivered across web development, automation, and AI integration.
+
+Currently exploring advanced AI agent workflows and automation pipelines. **Open to freelance projects, collaborations, and full-time opportunities** — reach out anytime, always happy to discuss a new project!
 
 ```ts
 const rohan = {
   role:     "Full-Stack Developer",
-  basedIn:  "Lahore, Pakistan 🇵🇰",
+  basedIn:  "Pakistan 🇵🇰",
   stack:    ["TypeScript", "Next.js 16", "React 19", "Node.js", "Postgres", "PHP"],
   ai:       ["Claude", "GPT-4o/5", "Gemini", "Perplexity", "Vapi", "n8n"],
   shipping: ["SaaS", "AI agents", "WordPress plugins", "Shopify themes", "CRMs"],
-  brands:   ["Innovation With Pixels", "SkillMentor.pk", "MotorIQ Pro"],
   motto:    "Shipping is the only metric that matters.",
 };
 ```
@@ -152,4 +153,4 @@ n8n automation expert, WordPress plugin developer, WooCommerce Clover integratio
 Shopify Horizon theme, GoHighLevel integration, Claude AI engineer,
 OpenAI integration, chatbot developer, SaaS developer Pakistan,
 freelance Next.js TypeScript, hiring automation, voice AI agent, MotorIQ Pro.
--->bots & Vibe Coding** solutions
+-->
