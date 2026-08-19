@@ -92,15 +92,7 @@ const rohan = {
 
 ## 📈 Activity Graph
 
-<div align="center">
 
-<a href="https://github.com/Rohan-3420">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohan-3420&theme=tokyo-night&hide_border=true&area=true&custom_title=Rohan%27s%20Contribution%20Graph" alt="Activity graph" width="100%"/>
-</a>
-
-5+ shipped products & internal tools · still building.
-
-</div>
 
 ---
 
