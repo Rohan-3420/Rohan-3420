@@ -47,7 +47,6 @@ const rohan = {
 
 ---
 
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -80,18 +79,16 @@ const rohan = {
 </div>
 
 ---
+
 ### 📊 GitHub Stats
 
-
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohan-3420&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Rohan-3420&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 📈 Activity Graph
-
 
 <div align="center">
 
@@ -102,12 +99,12 @@ const rohan = {
 5+ shipped products & internal tools · still building.
 
 </div>
+
 ---
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rohan-3420/Rohan-3420/output/github-snake-dark.svg" />
@@ -115,11 +112,7 @@ const rohan = {
   <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/Rohan-3420/Rohan-3420/output/github-snake.svg" />
 </picture>
 
-
-
 </div>
-
----
 
 ---
 
@@ -139,7 +132,6 @@ const rohan = {
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-ROHANSHAHZAD.COM-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://rohan-portfolio-woad-eight.vercel.app/)
-</a>
 <a href="mailto:me.rohan3420@gmail.com"><img src="https://img.shields.io/badge/Email-me.rohan3420@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/>
